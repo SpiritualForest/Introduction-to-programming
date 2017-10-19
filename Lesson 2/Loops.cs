@@ -139,7 +139,7 @@ namespace Examples {
         public static void Count(int n) {
             /* Count from 1 to n using the shorter for-loop version */
             for(int i = 1; i <= n; i++) {
-                Console.WriteLine(n);
+                Console.WriteLine(i);
             }
             Console.WriteLine("For-loop ended.");
         }

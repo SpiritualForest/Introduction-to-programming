@@ -41,7 +41,7 @@ using System;
 
 namespace Examples {
     static class Arrays {
-        public static void ArrayExamples {
+        public static void ArrayExamples() {
             // This is an array of integers. Its elements are the numbers 1 - 10.
             int[] numbers = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }; // Array size is 10
             int[] elements = new int[10]; // Array size is also 10, but the array contains no items yet
@@ -101,7 +101,7 @@ namespace Examples {
      * theList.Count; */
 
     static class GenericLists {
-        public static void GenericListExamples {
+        public static void GenericListExamples() {
             /* Create a new list of int */
             List<int> numbers = new List<int>();
             /* Add the number 75 to the list */
