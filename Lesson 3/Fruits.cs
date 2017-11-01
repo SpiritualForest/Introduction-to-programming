@@ -25,7 +25,7 @@ namespace Edibles {
             // Constructor
             public Banana(int weight) {
                 // Set color and weight
-                color = "Yello";
+                color = "Yellow";
                 this.weight = weight;
                
                 // Set the nutritional values for a banana
