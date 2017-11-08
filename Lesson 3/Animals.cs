@@ -1,6 +1,5 @@
 using System;
 using Edibles;
-using Edibles.Fruits;
 
 namespace Animals {
     class Monkey {
